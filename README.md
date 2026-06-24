@@ -11,6 +11,6 @@ We hypothesize that including molecular classification information will improve 
 # File Organization
 |File|Description|
 |----|------------|
-|1|a|
-|2|b|
+|MainStory| Contains the analysis to answer our main research question|
+|Trial1|Uses clinical and molecular subclass data to predict Survival Outcome (4 categories)|
 |3|c|
