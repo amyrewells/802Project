@@ -12,6 +12,7 @@ We hypothesize that including molecular classification information will improve 
 |Filename|Description|
 |----|------------|
 |MainStory.ipynb| Contains the analysis to answer our main research question|
+|Trial0.ipynb| Data exploration prior to first trial| 
 |Trial1.ipynb|Uses clinical and molecular subclass data to predict Survival Outcome (4 categories) via RandomForest|
 |Trial2.ipynb| Repeats Trial 1 using knn instead of statistical imputation for molecular classifier subtypes|
 |Trail3.ipynb| Uses clinical and molecular subclass data to predict Survival Outcome (4 categories) via KNN classification|
