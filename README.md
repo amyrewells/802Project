@@ -19,3 +19,4 @@ We hypothesize that including molecular classification information will improve 
 |Trial4.ipynb| Uses clinical and molecular subclass data to predict Relapse Outcome (3 categories) via RandomForest|
 |Trial5.ipynb| Repeats models 1-4 from Trial 1 to predict Surival Outcome as a binary (2 categories)|
 |Trial6.ipynb| Adds IHC (based on ER,PR, and HER2 status) to baseline features and evaluates results in depth|
+|Trial7.ipynb| Uses clinical and molecular subclass data (including IHC) to predict Survival Outcome (2 categories) via Logistical Regression and XGBoost|
